@@ -8,7 +8,7 @@ Framework de automação de testes **end-to-end** para o site demo [SauceDemo](h
 ![POM](https://img.shields.io/badge/Page%20Object%20Model-Professional-lightgrey)
 
 ## Descrição
-Projeto desenvolvido como portfólio profissional para demonstrar domínio em automação de testes web com boas práticas de mercado:
+Projeto desenvolvido como portfólio em automação de testes web:
 - **Page Object Model (POM)** para código limpo, reutilizável e fácil de manter
 - Esperas inteligentes (Explicit Wait)
 - Configuração robusta do driver (bloqueio de popups do Chrome)
